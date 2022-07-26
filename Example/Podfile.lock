@@ -1,5 +1,5 @@
 PODS:
-  - ExampleLib (1.0.0)
+  - ExampleLib (1.0.1)
 
 DEPENDENCIES:
   - ExampleLib (from `../`)
